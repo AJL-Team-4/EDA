@@ -1,13 +1,13 @@
 # EDA
 Contributors:
-Jun Ze He
-https://github.com/JunJul
-Andrew Lam
-https://github.com/anlam35705
-Camille Dove
-https://github.com/CamilleDove
-Melissa April
-https://github.com/melissaaapril
+- Jun Ze He
+   - https://github.com/JunJul
+- Andrew Lam
+  - https://github.com/anlam35705
+- Camille Dove
+  - https://github.com/CamilleDove
+- Melissa April
+  - https://github.com/melissaaapril
 
 Project Overview:
 
