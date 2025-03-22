@@ -1,1 +1,1 @@
-# AJL_DermatologyClassifier_mc
+# EDA
