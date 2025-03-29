@@ -8,7 +8,14 @@ Contributors:
   - https://github.com/CamilleDove
 - Melissa April
   - https://github.com/melissaaapril
+**🎯 Project Highlights**
 
+* Built a \[insert model type\] using \[techniques used\] to solve \[Kaggle competition task\]
+* Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
+* Used \[explainability tool\] to interpret model decisions
+* Implemented \[data preprocessing method\] to optimize results within compute constraints
+
+🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 Project Overview:
 
 - This Kaggle competition is part of the Break Through Tech AI Program in collaboration with the Algorithmic Justice League. The challenge focuses on improving AI fairness in dermatology by developing an inclusive machine-learning model that can classify 21 different skin conditions across diverse skin tones.
