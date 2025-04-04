@@ -1,4 +1,7 @@
+
 # README
+# EDA
+
 Contributors:
 - Jun Ze He
    - https://github.com/JunJul
@@ -8,6 +11,7 @@ Contributors:
   - https://github.com/CamilleDove
 - Melissa April
   - https://github.com/melissaaapril
+
 
 Project Highlights
 
@@ -39,6 +43,10 @@ Execution Steps
 - Run Model7.ipynb for final model execution.
 
 - Monitor accuracy and loss metrics during training.
+
+
+🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
+
 
 Project Overview:
 
@@ -80,8 +88,7 @@ Data Visualization:
 
 ![image](https://github.com/user-attachments/assets/1c3f9bb4-85a3-4348-b543-f4c7fd8ddb69)
 ![image](https://github.com/user-attachments/assets/fdac011e-3846-48cb-9fd0-cc81fc68ff9b)
-Model Development
-- https://github.com/AJL-Team-4/Models 
+
 
 Results & Key Findings
 
